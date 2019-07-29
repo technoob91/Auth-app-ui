@@ -1,0 +1,13 @@
+.otpCard {
+  min-width: 360px;
+  padding: 2rem;
+  box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+  border-radius: 4px;
+  background: white;
+}
+
+.requestOtpButton {
+  width: 100%;
+  margin: 20px;
+  margin-left: 0px;
+}
